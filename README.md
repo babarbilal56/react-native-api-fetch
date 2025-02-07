@@ -1,4 +1,4 @@
-
+<img src="react-native-api-fetch.jpg" alt="main image">
 # FetchComponent and useFetch
 
 This project contains two main utilities for handling API requests in a React Native environment: `FetchComponent` and `useFetch`. Both are designed to simplify fetching data from an API, manage loading states, handle caching, and allow retrying requests.
