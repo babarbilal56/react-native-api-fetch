@@ -1,0 +1,38 @@
+{
+    "name": "react-native-api-fetch",
+    "version": "1.0.0",
+    "description": "A data fetching library for React Native that simplifies making API requests",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no tests specified\" && exit 1"
+    },
+    "keywords": [
+      "React Native",
+      "Fetcher Library",
+      "API requests",
+      "react native api fetch",
+      "HTTP methods",
+      "Network requests",
+      "Data fetching",
+      "Error handling",
+      "React Native library",
+      "Performance optimization",
+      "Fetch wrapper",
+      "Request retries",
+      "React Native tools",
+      "Asynchronous fetching"
+    ],
+    "author": "Babar Bilal",
+    "license": "MIT",
+    "peerDependencies": {
+      "react-native": ">=0.60.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/babarbilal56/react-native-api-fetch.git"
+    },
+    "bugs": {
+      "url": "https://github.com/babarbilal56/react-native-api-fetch/issues"
+    },
+    "homepage": "https://github.com/babarbilal56/react-native-api-fetch#readme"
+  }
