@@ -46,6 +46,23 @@ Follow the official [AsyncStorage installation guide](https://react-native-async
 
 ---
 
+
+## Installation
+
+To install the package, you can use npm or yarn:
+
+```bash
+npm i react-native-api-fetch
+```
+
+or if you prefer yarn:
+
+```bash
+yarn add react-native-api-fetch
+```
+
+
+
 ## FetchComponent
 
 The `FetchComponent` is a React Native component designed to handle API requests. It can be used directly in the UI to fetch data from an API, display loading indicators, handle errors, and display the fetched data.
