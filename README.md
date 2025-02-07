@@ -53,7 +53,7 @@ The `FetchComponent` is a React Native component designed to handle API requests
 ### Usage
 
 ```jsx
-import { FetchComponent } from 'path/to/your/utils';
+import {FetchComponent} from 'react-native-api-fetch'
 
 const MyComponent = () => (
   <FetchComponent
@@ -97,7 +97,8 @@ The `useFetch` hook is a custom React hook that provides a simpler way to manage
 ### Usage
 
 ```jsx
-import { useFetch } from 'path/to/your/utils';
+import { useFetch } from 'react-native-api-fetch';
+
 
 const MyComponent = () => {
   const { data, loading, error, retry } = useFetch({
